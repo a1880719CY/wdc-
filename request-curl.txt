@@ -1,0 +1,4 @@
+curl --request HEAD \
+  --url https://google.com/ \
+  --header 'User-Agent: insomnia/8.6.1' \
+  --cookie '1P_JAR=2024-03-27-13; AEC=Ae3NU9MrhyNjpx8nCLkxGBvOM2R_FUxrYlzAkEVP7rCfhfv_JomISn2pXhU; NID=512%3DtnYdUxlTZrEvHv2Z5A08eRMWpzSl-z4Ts4vAYfxf0owfiS7IZa2xUz7XDQrk144D4MEpUKlvhls0veiyfZDRD4I5Q6NnnruczQ6lNHsiOJzRFxV6KObNIKd1T3DMg-zSsiljN5-BDi8l4GXqigOkK7NXRIeGDeCqqbv2wdzZNzA'
